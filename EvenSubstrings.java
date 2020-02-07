@@ -1,4 +1,4 @@
-
+//https://codeforces.com/problemset/page/2?order=BY_RATING_ASC
 import java.util.Scanner;
 public class EvenSubstrings {
     public static void main(String[] args) {
